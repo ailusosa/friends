@@ -1,0 +1,175 @@
+.principal{
+        width: 1280px;
+        border: solid transparent 2px;
+        background-color: #D6B4E0;
+        margin: auto;
+        padding: 0px;
+}
+
+.titulo{
+    border: solid transparent 5px;
+    height: 300px;
+    background-image: url(..//Imagenes/sillofinal.png);
+    background-repeat: no-repeat;
+    background-position: 700px;
+    background-color: #68487A;
+    padding: 1px;
+    margin: auto;
+    
+}
+
+.menu{
+    border: solid transparent 1px;
+    height: 800px;
+    margin: 20px;
+}
+
+.contenedorchico{
+    border: solid transparent 1px;
+    height: 150px;
+    margin: 40px;
+    
+}
+
+.contenedormediano{
+    border: solid transparent 2px;
+    height: 210px;
+    margin: 40px;
+}
+
+.cajapersonajes{
+    border: solid transparent 2px;
+    height: 90px;
+    margin: 40px;
+}
+
+
+.infopersonajes{
+    border: solid transparent 2px;
+    height: 250px;
+    margin: 40px;
+}
+
+
+.contenedorcuriosidades{
+    border: solid transparent 2px;
+    height: 270px;
+    margin: 40px;
+    
+}
+
+.encabezadomenu{
+    border: solid transparent 2px;
+    background-color: #68487A;
+    text-align: left;
+    padding-left: 50px;
+    
+}
+
+
+.nombrepersonaje{
+    border: dashed #68487A 5px;
+    width: 400px;
+    margin: auto;
+}
+
+
+body{
+    font-family: Georgia, Arial, "Times New Roman";
+    background-image:url(..//Imagenes/friends4prueba.jpg);
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+h1{
+    color: white;
+    font-size:170px;
+    margin-top: 65px;
+    margin-left: 30px;
+
+}
+
+h2{
+    color: white;
+    font-size:30px;
+    font-style:bold;
+    text-transform: uppercase;
+    
+    
+}
+
+h3{
+    color:black;
+    font-size:20px;
+    text-transform: uppercase;
+    font-style: bold;
+    text-align: center;
+    
+}
+
+p{
+    color:black;
+    font-size:20px;
+    line-height: 25px;
+    text-indent: 0px;
+    
+
+}
+
+ul{
+    list-style: none;
+    font-size: 54px;
+}
+
+.pers li{
+    font-size: 45px;
+    font-variant: small-caps;
+
+}
+
+.centrado{
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.centrado img{
+    border: solid #68487A 7px;
+}
+
+
+.fotoprincipal{
+    margin-top: 50px;
+    text-align: center; 
+    
+    
+}
+
+.fotoprincipal img{
+    border: solid #68487A 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #68487A;
+}
+
+#fuentes{
+    font-size: 30px;
+    
+}
+
+#listacuriosidades{
+    font-size: 20px;
+    list-style: disc;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
